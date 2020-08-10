@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ### Main Project:
 
-<img align="left" src="/images/icon.jpg"/>
+<p align="left">
+    <img src="/images/icon.jpg"/>
+</p>
 
 [![Testing](https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion)](https://github.com/Xithrius/Xythrion)
 
