@@ -19,17 +19,9 @@ Here are some ideas to get you started:
 
 ### Main Project:
 
-<p align="left">
-    <img src="./images/icon.jpg"/>
-</p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion" href="https://github.com/Xithrius/Xythrion">
-
-<!-- [![Testing](https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion)](https://github.com/Xithrius/Xythrion) -->
+[![Testing](https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion)](https://github.com/Xithrius/Xythrion)
 
 <hr>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xithrius&layout=compact&hide_border=true?theme=nord"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xithrius&count_private=true&show_icons=true&hide_border=true?theme=nord"/>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xithrius&layout=compact&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xithrius&count_private=true&show_icons=true&hide_border=true"/>
