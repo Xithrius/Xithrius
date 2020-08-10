@@ -13,18 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Greetings, other human.
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xithrius&count_private=true&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xithrius&layout=compact&hide_border=true"/>
 
 <hr>
 
 ### Main Project:
 
 [![Testing](https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion)](https://github.com/Xithrius/Xythrion)
-
-<hr>
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xithrius&count_private=true&show_icons=true&hide_border=true"/> -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xithrius&layout=compact&hide_border=true"/> -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xithrius&count_private=true&show_icons=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xithrius&layout=compact"/>
