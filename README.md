@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xithrius&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xithrius&layout=compact&hide_border=true"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xithrius&count_private=true&show_icons=true&"/>
-
-<hr>
-
-### Some text.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xithrius&count_private=true&show_icons=true&hide_border=true"/>
