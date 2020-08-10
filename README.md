@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 ### Main Project:
 
 <p align="left">
-    <img src="/images/icon.jpg"/>
+    <img src="./images/icon.jpg"/>
 </p>
 
-[![Testing](https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion)](https://github.com/Xithrius/Xythrion)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion" href="https://github.com/Xithrius/Xythrion">
+
+<!-- [![Testing](https://github-readme-stats.vercel.app/api/pin/?username=Xithrius&repo=Xythrion)](https://github.com/Xithrius/Xythrion) -->
 
 <hr>
 
